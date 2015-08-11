@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "BaznaPitanja"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-BaznaPitanja-18d3dc8b-064a-44c4-88df-ca809b128840;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
