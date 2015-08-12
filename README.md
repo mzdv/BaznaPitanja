@@ -11,7 +11,7 @@ Dostupno na: baznapitanja.azurewebsites.net
 
 English
 -------
-ASP.NET application to help us with an exam
+ASP.NET application to help us with an exam.
 
 Available at: baznapitanja.azurewebsites.net
 
